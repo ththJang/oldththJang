@@ -36,6 +36,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-sitemap
 permalink: 'blog/:title'
 compress_html:
   clippings: all
