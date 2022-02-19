@@ -1,0 +1,4 @@
+User-agent: *
+DisAllow: /hello
+
+Sitemap: https://ththjang.github.io/sitemap.xml
