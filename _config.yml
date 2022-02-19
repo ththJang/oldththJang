@@ -48,7 +48,6 @@ defaults:
       post-image: ''
       description: ''
       tags:
-      comments: true
         - ''
   - scope:
       type: pages
@@ -66,7 +65,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 layout: default
-#comments: 
-#  provider               : "disqus" 
-#  disqus:
-#    shortname            : ththjang-github # https://hel
+comments: 
+  provider               : "disqus" 
+  disqus:
+    shortname            : ththjang-github # https://hel
