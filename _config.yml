@@ -7,7 +7,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: 'Site, Template, Theme'
 favicon-url: null
 heroimage: >-
-  http://localhost:4000/library_img_libraries.jpg
+  http://localhost:4000/images/library_img_libraries.jpg
 email: jthgreene@gmail.com
 facebook_username: oasis2
 twitter_username: null
@@ -23,7 +23,7 @@ google-analytics: null
 disqus-shortname: null
 author-name: Taehwan Jang
 author-image: >-
-  http://localhost:4000/revised_image.jpg
+  http://localhost:4000/images/revised_image.jpg
 author-about: >-
   Ph. D. candidate in chemistry at Korea Advanced Institute of Science and
   Technology. Glad to talk with you!
