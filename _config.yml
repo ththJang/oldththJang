@@ -64,7 +64,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+layout: default
 comments: true
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : http://ththjang.github.io # https://hel
+    shortname            : ththjang-github # https://hel
