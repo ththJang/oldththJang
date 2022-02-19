@@ -48,7 +48,7 @@ defaults:
       post-image: ''
       description: ''
       tags:
-      comments:
+      comments: true
         - ''
   - scope:
       type: pages
