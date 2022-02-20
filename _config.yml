@@ -104,9 +104,9 @@ collections:
   projects:
     output: true
     sidebar_label: News
-  protected:
-    output: true
-    sidebar_label: News
+#  protected:
+#    output: true
+#    sidebar_label: News
 
 # Exclude
 exclude:
