@@ -71,8 +71,5 @@ Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molesti
 **YouTUbe Videos will look like:**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% if page.comments %}
-<div id="disqus_thread"></div>
+
 {% include disqus.html %}
-</div>
-{% endif %}
