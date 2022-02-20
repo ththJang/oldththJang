@@ -1,6 +1,6 @@
 ---
 title: testforlaunching
-layout: project
+layout: page
 post-image: https://github.com/ththJang/ththJang.github.io/blob/main/assets/images/tobereleased.jpg?raw=true
 ---
 
