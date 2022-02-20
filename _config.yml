@@ -96,8 +96,6 @@ defaults:
       type: 'projects'
     values:
       layout: project
-      post-image: ""
-      cite: ""
 
 # Exclude
 exclude:
