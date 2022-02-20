@@ -94,10 +94,9 @@ defaults:
 
 # Collections
 collections:
-  cupcakes:
-  title: 'cupcakes'
-  output: true
-  permalink: 'cupcakes/:title' 
+  authors:
+    output: true
+    sidebar_label: News
 
 # Exclude
 exclude:
