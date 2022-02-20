@@ -1,8 +1,8 @@
-<!--<div class="columns is-centered is-multiline is-mobile">
-  {% for project in site.data.projects %}
+<div class="columns is-centered is-multiline is-mobile">
+  {% for project in site.projects %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
-      <a href="{{project.link}}" target="_blank">
+<!--      <a href="{{project.link}}" target="_blank"> -->
       <a href="{{project.url | absolute_url}}">
       <div class="has-background-black card">
         <figure class="image is-3by1" style="background-image: url({{project.image}});">
@@ -15,19 +15,4 @@
       </a>
     </div>
   {% endfor %}
-</div>
--->
-<div class="columns is-centered is-multiline is-mobile">
-    <div class="column is-marginless is-paddingless is-one-third-desktop is-one-third-fullhd is-one-third-tablet">
-        <div class="image is-16by9" style="background-image: url({{project.image}});"></div>
-    </div>
-    <a href="{{project.url | absolute_url}}">
-        <div class="column has-text-left-desktop has-text-left-tablet">
-            <h1 class="title is-size-4-touch">{{project.title}}</h1>
-            <div class="content has-text-grey">
-                {{ project.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
-                <hr class="has-background-grey">
-            </div>
-        </div>
-    </a>
 </div>
