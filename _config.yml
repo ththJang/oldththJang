@@ -64,11 +64,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
----
-layout: default
-comments: 
-  provider               : "disqus" 
-  disqus:
-    shortname            : ththjang-github # https://hel
----
 
