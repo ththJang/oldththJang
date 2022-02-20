@@ -95,7 +95,7 @@ defaults:
     scope:
       type: 'projects'
     values:
-      layout: project
+      layout: page
 
 # Exclude
 exclude:
