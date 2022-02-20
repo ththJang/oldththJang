@@ -1,6 +1,6 @@
 ---
 title: textencrypted
-layout: encrypted
+layout: post
 post-image: Hello
 key: my_secret_key
 ---
