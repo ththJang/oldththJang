@@ -1,6 +1,6 @@
 ---
 layout: page
-title: comment-policy
+title: comment policy
 ---
 
 Welcome!
