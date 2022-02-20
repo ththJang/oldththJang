@@ -17,6 +17,10 @@
 <lastmod>2022-02-20T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/textencrypted</loc>
+<lastmod>2022-02-21T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/404</loc>
 </url>
 <url>
@@ -24,6 +28,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/comment_policy</loc>
+</url>
+<url>
+<loc>http://localhost:4000/encrypted</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -36,6 +43,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/test_th</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ththjang-comment-guide</loc>
 </url>
 <url>
 <loc>http://localhost:4000/googlebad8645d13554863.html</loc>
