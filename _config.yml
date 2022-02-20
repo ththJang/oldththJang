@@ -91,16 +91,13 @@ defaults:
       type: 'pages'
     values:
       layout: page
-  -
-    scope:
-      type: 'projects'
-    values:
-      layout: page
 
 # Collections
 collections:
-  projects:
+  cupcakes:
+  title: 'cupcakes'
   output: true
+#  permalink: 
 
 # Exclude
 exclude:
