@@ -47,6 +47,7 @@ defaults:
       layout: post
       post-image: ''
       description: ''
+      comments: true
       tags:
         - ''
   - scope:
@@ -64,4 +65,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "ththjang-github"
 
