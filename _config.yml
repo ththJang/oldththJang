@@ -65,7 +65,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 layout: default
-comments: 
+comments: true
   provider               : "disqus" 
   disqus:
     shortname            : ththjang-github # https://hel
