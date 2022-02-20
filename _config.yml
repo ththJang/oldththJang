@@ -68,7 +68,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - bcrypt
-  - protected.rb
+  - protected
 
 # Permalink
 permalink: "blog/:title"
