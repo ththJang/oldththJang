@@ -93,11 +93,11 @@ defaults:
       layout: page
 
 # Collections
-#collections:
-#  cupcakes:
-#  title: 'cupcakes'
-#  output: true
-#  permalink: 
+collections:
+  cupcakes:
+  title: 'cupcakes'
+  output: true
+  permalink: 'cupcakes/:title' 
 
 # Exclude
 exclude:
