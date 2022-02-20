@@ -94,7 +94,7 @@ defaults:
 
 # Collections
 collections:
-  authors:
+  projects:
     output: true
     sidebar_label: News
 
