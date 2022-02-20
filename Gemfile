@@ -17,6 +17,7 @@ gem "rack"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-admin', "0.9.0"
+  gem "bcrypt"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -29,4 +30,3 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", :install_if => Gem.win_platform?
 gem "jekyll-sitemap"
-gem "bcrypt"
