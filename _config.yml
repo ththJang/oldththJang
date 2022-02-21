@@ -48,12 +48,11 @@ author-image: >-
   https://github.com/ththJang/ththJang.github.io/blob/main/assets/images/revised_image2.jpg?raw=true
 
 # 60 Words About the Author
-author-about: |
-  Don't get stuck, think outside the box. Glad to talk with you!
-
+author-about: >-
+  <p> Don't get stuck, think outside the box. Glad to talk with you! </p>
   Currently Ph. D. candidate in chemistry at Korea Advanced Institute of Science
   and Technology (KAIST), South Korea.
-
+  
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/ththJang
 
