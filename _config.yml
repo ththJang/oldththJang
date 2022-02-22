@@ -9,7 +9,10 @@ baseurl: ''
 # Title of the Site
 title: Good day mate!
 # Description of the Site
-description: A personal website but to share ideas and codes
+description: >- 
+  <p>A personal website but to share ideas and codes</p>
+  by Taehwan Jang
+  
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site

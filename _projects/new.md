@@ -1,10 +1,11 @@
 ---
 title: ex_new_projects
 layout: post
-image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+image: https://github.com/ththJang/ththJang.github.io/blob/main/assets/images/jisoo2.jpg?raw=true
 description: Hello
 post-image: https://github.com/ththJang/ththJang.github.io/blob/main/assets/images/BLACKPINK2.jpg?raw=true
 ---
 
-BLACKPINK
+**BLACKPINK**
+<br>
 No copyright infringement intended. © YG Entertainment
